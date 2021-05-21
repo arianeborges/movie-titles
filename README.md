@@ -1,7 +1,10 @@
 # movie-titles
 
 Project developed with [Rocketseat](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) to learn more about components in React. 
-This will be an application where its main objective is to list films according to genre.
+This will be an application where its main objective is to list films according to the genre.
+
+### DEMO
+
 
 ### 🛠 Technologies
 
