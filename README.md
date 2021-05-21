@@ -5,6 +5,7 @@ This will be an application where its main objective is to list films according 
 
 ### DEMO
 
+![Movie titles demo](https://github.com/arianeborges/movie-titles/blob/main/movie-titles.gif)
 
 ### 🛠 Technologies
 
