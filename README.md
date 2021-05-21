@@ -7,6 +7,7 @@ This will be an application where its main objective is to list films according 
 
 - React JS
 - Typescript
+- Fake API with JSON Server
 - SASS
 
 ### 📕 Installation
