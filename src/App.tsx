@@ -60,6 +60,15 @@ export function App() {
         handleClickButton={handleClickButton} 
         selectedGenreId={selectedGenreId} 
       />
+      
+      <div className="container">
+        <header>
+          <span className="category">Categoria:<span> {selectedGenre.title}</span></span>
+        </header>
+        <Content
+          movies={movies}
+        />
+      </div>
     </div>
   )
 }
